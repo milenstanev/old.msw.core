@@ -1,0 +1,5 @@
+import the proper version of core in the index, default one is 'default'
+-----------------------------------------------------------------------
+
+put in to the package manager: jspm install --link msw.core@x.x.x
+install it: jspm install link msw.core
