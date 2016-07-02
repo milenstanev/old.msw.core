@@ -3,3 +3,13 @@ import the proper version of core in the index, default one is 'default'
 
 put in to the package manager: jspm install --link msw.core@x.x.x
 install it: jspm install link msw.core
+
+
+
+update:
+cmd in the module directory: jspm link
+cmd in the project :jspm install --link github:{linkName}
+now it working with local instance
+commit local module in to the repo
+got to main directory and run cmd: jspm install --unlink github:{linkName}
+now the app will update form repo
