@@ -26,6 +26,6 @@ class CoreDirectives extends AngularModuleHelper {
 	}
 }
 
-const mswCoreDirectives = new CoreDirectives();
+const mswCoreDirectives = new CoreDirectives('prefix.core.directives', []);
 
 export default mswCoreDirectives;
