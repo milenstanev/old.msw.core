@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "jspm-link": "node build.js && jspm link -y"
   },
-  "author": "",
+  "author": "milenstanev",
   "license": "ISC",
   "devDependencies": {
     "babel": "npm:babel-core@^5.8.24",
