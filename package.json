@@ -1,12 +1,24 @@
 {
-  "name": "milenstanev/msw.core",
+  "name": "msw.core",
   "version": "0.0.1",
   "registry": "github",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "jspm-link": "node build.js && jspm link -y"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "babel": "npm:babel-core@^5.8.24",
+    "babel-runtime": "npm:babel-runtime@^5.8.24",
+    "core-js": "npm:core-js@^1.1.4",
+    "jspm": "^0.16.42",
+    "systemjs-builder": "^0.15.26"
+  },
+  "jspm": true,
+  "dependencies": {
+    "angular": "angular/bower-angular@^1.5.8"
+  }
 }

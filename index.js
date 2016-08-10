@@ -1,1 +1,1 @@
-export * from './default/core.js';
+export * from './default/core-bundle.js';
