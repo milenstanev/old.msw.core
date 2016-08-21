@@ -1,5 +1,5 @@
 {
-  "name": "msw.core",
+  "name": "milenstanev00047msw.core",
   "version": "0.0.1",
   "registry": "github",
   "description": "",
@@ -18,7 +18,7 @@
     "systemjs-builder": "^0.15.26"
   },
   "jspm": true,
-  
+
   "dependencies": {
     "angular": "angular/bower-angular@^1.5.8"
   }
