@@ -18,6 +18,7 @@
     "systemjs-builder": "^0.15.26"
   },
   "jspm": true,
+  
   "dependencies": {
     "angular": "angular/bower-angular@^1.5.8"
   }
