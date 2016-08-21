@@ -1,9 +1,5 @@
 {
   "name": "milenstanev-msw.core",
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:milenstanev/msw.core.git"
-  },
   "version": "0.0.2",
   "registry": "github",
   "description": "",
