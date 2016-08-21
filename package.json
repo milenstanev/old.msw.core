@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "jspm-link": "node build.js && jspm link -y"
+    "jspm-link": "node build.js && jspm link github:milenstanev/msw.core@0.0.1 -y"
   },
   "author": "milenstanev",
   "license": "ISC",
