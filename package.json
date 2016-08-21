@@ -1,5 +1,9 @@
 {
-  "name": "milenstanev00047msw.core",
+  "name": "milenstanev-msw.core",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jspm/github.git"
+  },
   "version": "0.0.2",
   "registry": "github",
   "description": "",
